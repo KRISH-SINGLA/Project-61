@@ -1,0 +1,205 @@
+body{
+  text-align: center;
+  background-color: coral;
+}
+#image1{
+    padding: 100px;
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 350px;
+}
+#h2{
+  text-align: right;
+}
+#line{
+    width: 200px;
+    height: 5px;
+    background-color: black;
+    line-height: 2.2;
+}
+#line1{
+    width: 200px;
+    height: 5px;
+    background-color: black; 
+    line-height: 1.2;
+}
+#heading{
+    position: absolute;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+h3{
+    line-height: 3.2;
+}
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+   position: absolute;
+    top: 10px;
+   right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    display: inline;
+}
+.links{
+    float: left;
+    color: black;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: ALGERIAN;
+    font-size: 22;
+}
+.links:hover{
+    background-color: floralwhite;
+}
+#image1 {
+    padding: 100px;
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 300px;
+}
+#h2{
+  text-align: right;
+}
+#line{
+    width: 200px
+    height: 5px;
+    background-color: black;
+    line-height: 2.2;
+}
+#line1{
+    width: 200px;
+    height: 5px;
+    background-color: black; 
+    line-height: 1.2;
+}
+#heading{
+    position: absolute;
+    height: 700px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#paragraphsec{
+   margin-top: 685px;
+    text-align: center;
+    height: 800px;
+    padding-right: 200px;
+    padding-left:200px;
+    font-size: 28px;
+    background-color: aqua;
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+h3{
+    line-height: 3.2;
+}
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.menu{
+    font-family: fantasy;
+   position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    display: inline;
+    background-color: black;
+    width: 450px;
+    padding-bottom: 15px; 
+}
+.links{
+    float: left;
+    color: white;
+    font-family: ALGERIAN;
+    font-size: 15;
+     display: inline;
+}
+.links:hover{
+    background-color: floralwhite;
+} 
+a{
+    text-decoration: none;
+    color: aqua;
+}
+a:hover{
+    color: black;
+}
+#MYBOOKS{
+     margin-top: 1485px;
+    text-align: center;
+    height: 710px;
+    padding-right: 350px;
+    padding-left:350px;
+    font-size: 28px;
+    background-color: fuchsia;
+    position: absolute;
+    right: 0;
+    left: 0; 
+    word-spacing: 10px;
+}
+#INSPIRATION{
+    background-color: darkorange;
+    position: absolute;
+    margin-top: 2200px;
+    height: 800px;
+    width: 600px;
+width: 100%;
+    right: 0;
+    left: 0;
+}
+.picture{
+    width: 250px;
+    height: 300px;
+ padding: 50px;   
+}
+.picture:hover{
+    transform: scale(0.9);
+        border: 10px solid: #FFFFFF ;
+}
+#contact{
+    margin-top: 3000px;
+    width: 100%;
+    position: absolute;
+    height: 800px;
+    background-color: blue;
+    text-align: center;
+    display: table;
+    right: 0;
+    left: 0;
+} 
